@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "\\\\wsl$\\Ubuntu\\home\\guyilherme\\php\\desafio\\backend\\database\\database.sqlite",
+            "name": "Banco"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
